@@ -1,3 +1,6 @@
+https://github.com/Rajatr100/Drinks_Sales_Analysis_Dashboard/blob/f525ac831443ba54d18b371030237e571b07ecc9/dashboard-image.png
+
+
 Overview
 The Coffee Sales Analysis Dashboard is a professional business intelligence solution designed to provide comprehensive insights into coffee sales data. This dashboard helps stakeholders monitor...
 
