@@ -9,7 +9,7 @@ Dynamic filtering and drill-down capabilities
 Clean, user-friendly interface for business users
 Getting Started
 Clone the repository
-git clone https://github.com/smusab9152/Coffee_Sales_Analysis_Dashboard.git
+
 Sample Data
 Sample coffee sales data is included for demonstration purposes. Replace with your organization’s data for full analysis.
 
